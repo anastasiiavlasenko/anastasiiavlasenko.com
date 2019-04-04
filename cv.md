@@ -1,7 +1,7 @@
 ---
-layout: pdf
+layout: page
 title: CV
 permalink: /CV/
 ---
 
-<iframe src="https://docs.google.com/file/d/0B8aGkJVsdqiJamVpUnJ1TDlFbFU/preview" width="100%" height="100%"></iframe>
+<iframe src="https://drive.google.com/file/d/1e-V1CVMrYplkTkKolAA7bvflS15uQ8Lp/preview" width="100%" height="800em"></iframe>
