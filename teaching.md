@@ -9,4 +9,4 @@ Bachelor’s Certificate Core Course, Florida State University, Spring semester 
 
 - Instructor, Course “Post-Soviet Politics”, Florida State University, Summer semester 2018
 
-[Syllabus](https://www.dropbox.com/s/sncb36dinafsmmi/Syllabus.pdf?dl=0)
+[Syllabus](https://www.dropbox.com/s/sncb36dinafsmmi/Syllabus.pdf?dl=0){:target="_blank"}
