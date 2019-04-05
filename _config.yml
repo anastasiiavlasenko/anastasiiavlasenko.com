@@ -17,9 +17,10 @@ title: Anastasiia Vlasenko
 email: av16j@my.fsu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate in Political Science
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anastasiiavlasenko.com" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username: anastasiiavlasenko
+baseurl: "" # the subpath of your site, e.g. /blog
+
 
 # Build settings
 markdown: kramdown
