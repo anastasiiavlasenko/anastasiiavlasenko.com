@@ -4,12 +4,16 @@ title: Contact
 permalink: /contact/
 ---
 
-Department of Political Science, Florida State University
 
-Room 545, 600 W. College Avenue
+Jordan Center for the Advanced Study of Russia, 
 
-Tallahassee, FL 32306
+New York University,
 
-[+1(850)644-2525](tel:+18506442525)
+Room 217, University Pl, 
 
-[av16j@my.fsu.edu](mailto:av16j@my.fsu.edu)
+New York, NY 10003
+
+[+1 212-992-6575](tel:+12129926575)
+
+[av1508@nyu.edu](mailto:av1508@nyu.edu)
+
