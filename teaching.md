@@ -4,6 +4,8 @@ title: Teaching
 permalink: /teaching/
 ---
 
+- Professor, Course “Democracies and Dictatorships: Comparative Perspective”, New York University, Spring semester 2023. [Syllabus](https://www.dropbox.com/s/e8q42kxqyklj6t8/Syllabus%20Democracies%20and%20Dictatorships.pdf?dl=0){:target="_blank"}
+
 - Instructor, Course “Comparative Government & Politics: Western Europe”, Florida State University, Fall semester 2020, Fall semester 2021. [Syllabus](https://www.dropbox.com/s/wtaszdo3vnm7bxe/Syllabus_Western European Politics .pdf?dl=0){:target="_blank"}
 
 - Instructor, Course “Institutional Approaches to Democracies and Autocracies”, Florida State University, Summer semester 2021, Spring semester 2022. [Syllabus](https://www.dropbox.com/s/zwl074o9vhm9duj/Syllabus_Institutional Approaches to Democracies and Autocracies .pdf?dl=0){:target="_blank"}
