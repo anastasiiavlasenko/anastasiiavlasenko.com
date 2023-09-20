@@ -11,6 +11,7 @@ permalink: /research/
 
 **Manuscripts**
 
+- Vlasenko, Anastasiia. “Legislators in Networks: Corruption, Clientelism, and Policy Making.”
 - Vlasenko, Anastasiia. “The Electoral Effects of Decentralization: Evidence from Ukraine.” (Dissertation)
 -	Vlasenko, Anastasiia. “Decentralization Reform and Redistribution: Evidence from Ukraine.” (Dissertation)
 -	Vlasenko, Anastasiia. “Russia as the Third Rome: The Electoral Influence of the Russian Orthodox Church.” (Dissertation)
