@@ -18,7 +18,7 @@ permalink: /teaching/
 
 -	Teaching Assistant, Course “Understanding Political Research”, Florida State University, Fall semester 2020, Spring semester 2021.
 
--	Instructor, Course “Introduction to Comparative Politics”, Florida State University, Summer semester 2019. [Syllabus](hhttps://www.dropbox.com/s/gabi0qgigrt1y83/Syllabus__Intro_to_Comparative_Politics.pdf?dl=0){:target="_blank"}
+-	Instructor, Course “Introduction to Comparative Politics”, Florida State University, Summer semester 2019. [Syllabus](https://drive.google.com/file/d/1nxOyEUzi91KhyqauYbPRGLehEHfObMB5/view?usp=sharing){:target="_blank"}
 
 -	Teaching Assistant, Course “Advanced Seminar: Research Design”, Research Intensive Bachelor’s Certificate Core Course, Florida State University, Spring semester 2019, Fall semester 2019.
 
