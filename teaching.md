@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- Lecturer, Course “Government and Politics of Ukraine”, Columbia University, Fall semester 2024. [Syllabus](https://drive.google.com/file/d/1O5uGF9JTg0Erzrm1Xws6tip5XGwityVu/view?usp=sharing){:target="_blank"}
+- Lecturer, Course “Government and Politics of Ukraine”, Columbia University, Fall semester 2024-2025. [Syllabus](https://drive.google.com/file/d/1O5uGF9JTg0Erzrm1Xws6tip5XGwityVu/view?usp=sharing){:target="_blank"}
 
 - Professor, Course “Democracies and Dictatorships: Comparative Perspective”, New York University, Spring semester 2023-2024. [Syllabus](https://www.dropbox.com/s/e8q42kxqyklj6t8/Syllabus%20Democracies%20and%20Dictatorships.pdf?dl=0){:target="_blank"}
 
