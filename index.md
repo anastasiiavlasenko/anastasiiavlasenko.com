@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![Anastasiia Vlasenko, PhD](/anastasiiavlasenko.jpeg)
+![Anastasiia Vlasenko, PhD](/vlasenko.JPG)
 
 I am a Visiting Assistant Professor at New York University, with a joint appointment in the Department of Politics, the Department of Russian & Slavic Studies, and the Program in International Relations. I hold a Ph.D. and M.A. in Political Science from Florida State University (2022 and 2018), an M.A. in International Relations from New York University (2016), an M.Sc. in European Affairs from Lund University (2013), and a B.A. in Political Science from the National University of Kyiv-Mohyla Academy (2011).
 
