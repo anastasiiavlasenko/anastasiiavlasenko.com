@@ -4,16 +4,12 @@ title: Contact
 permalink: /contact/
 ---
 
+New York University
 
-Harriman Institute, 
+19 University Place, 
 
-Columbia University,
+New York, NY 10003
 
-420 W 118th St, 
+[av1508@nyu.edu](mailto:av1508@nyu.edu)
 
-New York, NY 10027
-
-[+1 212-854-4623](tel:+12128544623)
-
-[av3228@columbia.edu](mailto:av3228@columbia.edu)
 
